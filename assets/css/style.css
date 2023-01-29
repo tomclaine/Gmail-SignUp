@@ -259,5 +259,5 @@ figcaption{
     padding: 6px 16px;
 }
 .footer .right a:last-child{
-    padding: 6px 0;
+    padding: 6px 0 6px 16px;
 }
